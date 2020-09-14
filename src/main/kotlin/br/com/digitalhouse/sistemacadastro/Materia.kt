@@ -1,4 +1,4 @@
 package br.com.digitalhouse.sistemacadastro
 
-class Materia {
+class Materia(val nome: String) {
 }
