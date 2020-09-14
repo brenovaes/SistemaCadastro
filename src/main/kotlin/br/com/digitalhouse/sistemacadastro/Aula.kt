@@ -1,4 +1,5 @@
 package br.com.digitalhouse.sistemacadastro
 
-class Aula {
+class Aula(var materia:Materia,var horarioInicio:String,var horarioTermino:String){
+
 }
